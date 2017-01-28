@@ -54,6 +54,8 @@ Support
 
 Feel free to ask question or make suggestions in the [issue tracker][].
 
+This package was originally authored by Ben Hayden; the current maintainer is Glynn Forrest.
+
 Contribute
 ----------
 
@@ -63,23 +65,23 @@ Contribute
 License
 -------
 
-Salt Mode is free software: you can redistribute it and/or modify it under the
+mmm-jinja2 is free software: you can redistribute it and/or modify it under the
 terms of the GNU General Public License as published by the Free Software
 Foundation, either version 3 of the License, or (at your option) any later
 version.
 
-Salt Mode is distributed in the hope that it will be useful, but WITHOUT ANY
+mmm-jinja2 is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 See [`COPYING`][copying] for the complete license.
 
 [badge-license]: https://img.shields.io/badge/license-GPL_3-green.svg
-[COPYING]: https://github.com/beardedprojamz/salt-mode/blob/master/COPYING
+[COPYING]: https://github.com/glynnforrest/mmm-jinja2/blob/master/COPYING
 [GNU Emacs]: https://www.gnu.org/software/emacs/
 [MELPA]: http://melpa.milkbox.net/
 [MELPA Stable]: http://melpa-stable.milkbox.net/
-[Issue tracker]: https://github.com/beardedprojamz/salt-mode/issues
-[Github]: https://github.com/beardedprojamz/mmm-jinja2
+[Issue tracker]: https://github.com/glynnforrest/mmm-jinja2/issues
+[Github]: https://github.com/glynnforrest/mmm-jinja2
 [Jinja2]: http://jinja.pocoo.org/
 [mmm-mode]: https://github.com/purcell/mmm-mode

@@ -3,7 +3,7 @@
 ;; Copyright (C) 2015  Ben Hayden
 
 ;; Author: Ben Hayden <hayden767@gmail.com>
-;; URL: https://github.com/beardedprojamz/mmm-jinja2
+;; URL: https://github.com/glynnforrest/mmm-jinja2
 ;; Version: 0.0.1
 ;; Package-Requires: ((mmm-mode "0.5.4"))
 
