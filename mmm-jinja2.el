@@ -4,7 +4,7 @@
 
 ;; Author: Ben Hayden <hayden767@gmail.com>
 ;; URL: https://github.com/glynnforrest/mmm-jinja2
-;; Version: 0.0.1
+;; Version: 0.1
 ;; Package-Requires: ((mmm-mode "0.5.4"))
 
 ;; This file is not part of GNU Emacs.
