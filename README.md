@@ -62,6 +62,13 @@ Contribute
 - [Issue tracker][]
 - [Github][]
 
+Contributors
+------------
+
+- [Ben Hayden](https://github.com/deybhayden)
+- [Glynn Forrest](https://github.com/glynnforrest)
+- [Mandar Vaze](https://github.com/mandarvaze)
+
 License
 -------
 
