@@ -79,8 +79,8 @@ See [`COPYING`][copying] for the complete license.
 [badge-license]: https://img.shields.io/badge/license-GPL_3-green.svg
 [COPYING]: https://github.com/glynnforrest/mmm-jinja2/blob/master/COPYING
 [GNU Emacs]: https://www.gnu.org/software/emacs/
-[MELPA]: http://melpa.milkbox.net/
-[MELPA Stable]: http://melpa-stable.milkbox.net/
+[MELPA]: https://melpa.org/
+[MELPA Stable]: https://stable.melpa.org/
 [Issue tracker]: https://github.com/glynnforrest/mmm-jinja2/issues
 [Github]: https://github.com/glynnforrest/mmm-jinja2
 [Jinja2]: http://jinja.pocoo.org/
